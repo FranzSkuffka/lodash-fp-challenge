@@ -1,0 +1,24 @@
+{
+  "name": "lodash-fp-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/ava/cli.js --watch challenge.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranzSkuffka/lodash-fp-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranzSkuffka/lodash-fp-challenge/issues"
+  },
+  "homepage": "https://github.com/FranzSkuffka/lodash-fp-challenge#readme",
+  "dependencies": {
+    "ava": "^0.19.1",
+    "lodash": "^4.17.4"
+  }
+}
